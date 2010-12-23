@@ -1,6 +1,9 @@
 = misawa
 
-Description goes here.
+発言を地獄のミサワっぽくしてくれます
+
+詳しくはこちらをご覧下さい
+http://blog.livedoor.jp/sasata299/archives/51518381.html
 
 == Contributing to misawa
  
